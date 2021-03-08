@@ -1,0 +1,5 @@
+<meta>
+	<info author="C4N" type="script" name="KRP Taksi Reklam Sistemi" />
+	<script src="c_krp_taksireklam.lua" type="client" cache="false" />
+	<script src="s_krp_taksireklam.lua" type="server" />
+</meta>
